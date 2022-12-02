@@ -1,6 +1,0 @@
-Background of the data
-
-The dataset to be used for the quiz pertains to the number of hospitalisations under the scheme Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (AB-PMJAY), this data is as on 19 June, 2019. 
-The data contains number of cases of hospitalisation in public and private hospitalisations state/ UT wise and on an all India level. 
-PMJAY is a scheme which provides health cover of Rs. 5 Lakhs per family per year, for secondary and tertiary care hospitalization across public and private empaneled hospitals in India. 
-State/UT contains the list of states and union territories, Public column contains hospitalisations in public hospitals and Private column contains list of hospitalisations in private hospitals.
