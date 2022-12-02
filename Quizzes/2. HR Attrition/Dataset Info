@@ -1,1 +1,10 @@
+Problem Statement:
+Employee Attrition has always been a crucial concern for a company. 
+Attrition means a loss to the company in terms of cost invested in training an employee. 
+There are a few companies which were forced to close due to high level of attrition. 
+To minimize attrition several companies tries to analyze and understand several factors which migh lead to an employee to leave the company. 
+The IBM HR Attrition Case Study is a dataset which aims to identify important factors that might be influential in determining an employee who might leave the company. 
+You are hired by the company and your objective is to undestand the data and to identify the patterns in the data which will help HR team to take decisive actions to reduce the attrition rate.
 
+Datasets:
+There are two given dataset, Company_Data.csv contains information of an employee related to the company and Personal_Data cotains personal information of an employee.
